@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "pinnedNetwork": null,
+  "networks": {
+    "adsgram": { "enabled": true, "blockId": "27529" },
+    "monetag": { "enabled": false, "zoneId": "10102308" }
+  }
+}
