@@ -19,15 +19,7 @@ Aap AI se 1024x1024 icon banao, phir online resize karo. Sizes needed:
 **Tool to resize:** https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html
 
 ### 1.2 Signed APK / AAB (Release Build)
-
-Sketchware Pro me:
-1. Project Settings → **App Signing**
-2. Generate keystore (PEHLI BAAR ONLY — bahut zaroori, isi se future updates sign karoge!)
-3. Save keystore file in safe place (Google Drive, etc.) — agar lost ho gaya, future me app update NAHI kar sakte
-4. Build → **Sign APK** → release mode
-
-**Better:** **AAB (Android App Bundle)** export karo — Play Store recommend karta hai, APK se chhoti size.
-
+developer work 
 ### 1.3 App Details
 
 | Field | Suggested |
